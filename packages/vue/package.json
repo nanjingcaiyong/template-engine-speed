@@ -1,0 +1,15 @@
+{
+  "name": "vue",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^3.3.11"
+  }
+}
